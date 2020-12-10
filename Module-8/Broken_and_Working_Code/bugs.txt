@@ -1,0 +1,7 @@
+19.  Missing <h1> </h1> 
+43  " nu sunt puse corect .. iar la textul <a href="">https://en.wikipedia.org/wiki/Boo_(dog)</a>
+mai trebuie adaugat >https://en.wikipedia.org/wiki/boo_(dog) </a> 
+Iar in final Sterinug va arata asa.
+<a href="https://en.wikipedia.org/wiki/Boo_(dog)">https://en.wikipedia.org/wiki/boo_(dog) </a>
+50 Missing Arrows < />
+(72,73,74,75,76) Wasn't deinede as list. (<li> </li>)
