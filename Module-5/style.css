@@ -1,0 +1,16 @@
+.center {text-align: center}
+#red {color:red}
+#two {color:blue}
+#three {color:green}
+#four {font-size: 76px}
+#five {font-size: 10px}
+#six {font-size: bold;}
+#seven {font-family: "Time New Roman", serif;}
+#eight {font-size:30px; color: orange; font-weight:bold;}
+.styledFont {color: green; font-family: Arial, serif;}
+#styledImage {
+    border-style: solid;
+    border-width: 0.5in;
+    border-color: orange;
+    border-radius:0.5px;
+}
